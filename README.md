@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Subo-00
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter and FlutterFlow
-- 💞️ I’m looking to collaborate on an interesting project
+- 👀 I’m very interested in Game Development
+- 🌱 Currently making a game in Godot
 - 📫 Reach me via email @: nikolasubo@gmail.com
 
 <!---
